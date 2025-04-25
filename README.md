@@ -1,4 +1,4 @@
-# BullMQ Proxy
+ # BullMQ Proxy
 
 This lightweight service works as a proxy for BullMQ queues. It has applications in many useful cases:
 
